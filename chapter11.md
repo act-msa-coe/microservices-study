@@ -62,7 +62,7 @@ MVP
 
 ### 개발 사이클 자동화
 
-![마이크로서비스파이프라인](./images/chapter11_마이크로서비스파이프라인.jpg)
+![마이크로서비스파이프라인](./images/chapter11_microservices_pipeline.jpg)
 
 [Screenplays and Journeys 소개 - 인수 테스트](http://testerstories.com/2016/06/screenplays-and-journeys-not-page-objects/)
 
